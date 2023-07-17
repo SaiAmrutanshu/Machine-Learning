@@ -1,2 +1,3 @@
 # Machine-Learning
-This repository houses my passion projects in the field of Data Science and Artificial Intelligence.
+The above Olympic Medal Prediction algorithm predicts the amount of medals expected to be earned by each of the countries who have taken an active part in the yester year Olympics across various sports. It uses the regression model for predicting the aforesaid medals and also gives us the required error with the help of Mean_Absolute_Error function. The result is obtained by us in the form of a graphical representation using a Histogram.
+It is a simple algorithm which can be used to make some pretty accurate predictions with the accuracy rate going up to about 75% which can be further increased by the use of a different models and implementing Neural Networks.
